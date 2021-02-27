@@ -1,0 +1,13 @@
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\bin\Debug\netcoreapp3.1\Ejercicio2-110.exe
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\bin\Debug\netcoreapp3.1\Ejercicio2-110.deps.json
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\bin\Debug\netcoreapp3.1\Ejercicio2-110.runtimeconfig.json
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\bin\Debug\netcoreapp3.1\Ejercicio2-110.runtimeconfig.dev.json
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\bin\Debug\netcoreapp3.1\Ejercicio2-110.dll
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\bin\Debug\netcoreapp3.1\Ejercicio2-110.pdb
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\obj\Debug\netcoreapp3.1\Ejercicio2-110.AssemblyInfoInputs.cache
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\obj\Debug\netcoreapp3.1\Ejercicio2-110.AssemblyInfo.cs
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\obj\Debug\netcoreapp3.1\Ejercicio2-110.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\obj\Debug\netcoreapp3.1\Ejercicio2-110.dll
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\obj\Debug\netcoreapp3.1\Ejercicio2-110.pdb
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\obj\Debug\netcoreapp3.1\Ejercicio2-110.genruntimeconfig.cache
+C:\Users\Fernando Olivares\source\repos\Ejercicio2-110\Ejercicio2-110\obj\Debug\netcoreapp3.1\Ejercicio2-110.csprojAssemblyReference.cache

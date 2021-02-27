@@ -1,0 +1,12 @@
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\bin\Debug\netcoreapp3.1\Ejercicio4-110.exe
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\bin\Debug\netcoreapp3.1\Ejercicio4-110.deps.json
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\bin\Debug\netcoreapp3.1\Ejercicio4-110.runtimeconfig.json
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\bin\Debug\netcoreapp3.1\Ejercicio4-110.runtimeconfig.dev.json
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\bin\Debug\netcoreapp3.1\Ejercicio4-110.dll
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\bin\Debug\netcoreapp3.1\Ejercicio4-110.pdb
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\obj\Debug\netcoreapp3.1\Ejercicio4-110.AssemblyInfoInputs.cache
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\obj\Debug\netcoreapp3.1\Ejercicio4-110.AssemblyInfo.cs
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\obj\Debug\netcoreapp3.1\Ejercicio4-110.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\obj\Debug\netcoreapp3.1\Ejercicio4-110.dll
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\obj\Debug\netcoreapp3.1\Ejercicio4-110.pdb
+C:\Users\Fernando Olivares\source\repos\Ejercicio4-110\Ejercicio4-110\obj\Debug\netcoreapp3.1\Ejercicio4-110.genruntimeconfig.cache
